@@ -111,5 +111,5 @@ R.times(() => aplplyTrainUpdate(), 100);
 showResult();
 
 console.log('--------------------------------');
-R.times(() => aplplyTrainUpdate(), 000000);
+R.times(() => aplplyTrainUpdate(), 1000000);
 showResult();
